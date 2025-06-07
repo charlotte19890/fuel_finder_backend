@@ -1,0 +1,23 @@
+{
+  "name": "fuel_finder_backend",
+  "version": "1.0.0",
+  "description": "Welcome to the **Fuel Station Finder & Price Checker App** – a smart mobile solution that helps users locate nearby fuel stations, compare real-time fuel prices, and make informed decisions on where to fill up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlotte19890/fuel_finder_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlotte19890/fuel_finder_backend/issues"
+  },
+  "homepage": "https://github.com/charlotte19890/fuel_finder_backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
