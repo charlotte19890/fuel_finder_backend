@@ -1,0 +1,2056 @@
+[
+  {
+    "id": "go001",
+    "name": "Global Oil Garage Westernburg",
+    "province": "Limpopo",
+    "area": "Polokwane",
+    "address": "Westernburg, Polokwane, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.928142,
+    "lng": 28.986954,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go002",
+    "name": "Global Oil Garage Kgebetli",
+    "province": "Limpopo",
+    "area": "Polokwane",
+    "address": "Kgebetli, Polokwane, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.918465,
+    "lng": 28.950435,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go003",
+    "name": "Global Oil Garage Nape",
+    "province": "Limpopo",
+    "area": "Polokwane",
+    "address": "Nape, Polokwane, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.000097,
+    "lng": 28.934698,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go004",
+    "name": "Global Oil Garage Mawasha",
+    "province": "Limpopo",
+    "area": "Polokwane",
+    "address": "Mawasha, Polokwane, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.97881,
+    "lng": 29.010142,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go005",
+    "name": "Global Oil Garage Total auto",
+    "province": "Limpopo",
+    "area": "Polokwane",
+    "address": "Total auto, Polokwane, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.030512,
+    "lng": 28.934045,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go006",
+    "name": "Global Oil Garage Dikgale",
+    "province": "Limpopo",
+    "area": "Polokwane",
+    "address": "Dikgale, Polokwane, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.065129,
+    "lng": 29.031266,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go007",
+    "name": "Global Oil Garage Sebayeng",
+    "province": "Limpopo",
+    "area": "Polokwane",
+    "address": "Sebayeng, Polokwane, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.055483,
+    "lng": 29.086472,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go008",
+    "name": "Global Oil Garage Mogwadi",
+    "province": "Limpopo",
+    "area": "Bochum",
+    "address": "Mogwadi, Bochum, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.011548,
+    "lng": 28.909224,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go009",
+    "name": "Global Oil Garage Senwabarwana",
+    "province": "Limpopo",
+    "area": "Bochum",
+    "address": "Senwabarwana, Bochum, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.927291,
+    "lng": 29.079325,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go010",
+    "name": "Global Oil Garage Ramanwa",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Ramanwa, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.042389,
+    "lng": 29.067734,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go011",
+    "name": "Global Oil Garage Tanani",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Tanani, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.029911,
+    "lng": 28.916948,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go012",
+    "name": "Global Oil Garage Malvis",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Malvis, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.92305,
+    "lng": 29.023053,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go013",
+    "name": "Global Oil Garage Hevilesh",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Hevilesh, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.924789,
+    "lng": 29.03655,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go014",
+    "name": "Global Oil Garage Masia",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Masia, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.959898,
+    "lng": 28.945081,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go015",
+    "name": "Global Oil Garage Crossroads",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Crossroads, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.949939,
+    "lng": 28.926392,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go016",
+    "name": "Global Oil Garage Mackauckau",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Mackauckau, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.081742,
+    "lng": 28.970822,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go017",
+    "name": "Global Oil Garage Mangondi",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Mangondi, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.942149,
+    "lng": 28.955782,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go018",
+    "name": "Global Oil Garage Tshisahulu",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Tshisahulu, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.969347,
+    "lng": 28.99287,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go019",
+    "name": "Global Oil Garage Tshakhuma",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Tshakhuma, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.932802,
+    "lng": 29.011264,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go020",
+    "name": "Global Oil Garage Lemba",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Lemba, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.920991,
+    "lng": 28.955585,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go021",
+    "name": "Global Oil Garage Khavhade",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Khavhade, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.96282,
+    "lng": 29.002474,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go022",
+    "name": "Global Oil Garage Mnm",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Mnm, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.039647,
+    "lng": 28.983758,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go023",
+    "name": "Global Oil Garage Matavhela",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Matavhela, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.905091,
+    "lng": 28.969679,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go024",
+    "name": "Global Oil Garage Matshidza",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Matshidza, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.907723,
+    "lng": 29.037621,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go025",
+    "name": "Global Oil Garage Mavhunga",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Mavhunga, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.980808,
+    "lng": 29.088817,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go026",
+    "name": "Global Oil Garage Dzanani",
+    "province": "Limpopo",
+    "area": "Venda",
+    "address": "Dzanani, Venda, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.904863,
+    "lng": 28.986714,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go027",
+    "name": "Global Oil Garage Gerry",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "Gerry, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.993826,
+    "lng": 29.099415,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go028",
+    "name": "Global Oil Garage Moleketla",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "Moleketla, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.997752,
+    "lng": 29.057855,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go029",
+    "name": "Global Oil Garage Petol fuel",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "Petol fuel, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.029031,
+    "lng": 28.92372,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go030",
+    "name": "Global Oil Garage Madumeleng",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "Madumeleng, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.994948,
+    "lng": 29.067825,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go031",
+    "name": "Global Oil Garage Mokwakwaila",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "Mokwakwaila, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.091963,
+    "lng": 29.078229,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go032",
+    "name": "Global Oil Garage Khujwane",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "Khujwane, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.033726,
+    "lng": 28.913977,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go033",
+    "name": "Global Oil Garage Poo ke nna",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "Poo ke nna, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.051479,
+    "lng": 28.922635,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go034",
+    "name": "Global Oil Garage The oaks",
+    "province": "Limpopo",
+    "area": "Tzaneen",
+    "address": "The oaks, Tzaneen, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.957194,
+    "lng": 28.940941,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go035",
+    "name": "Global Oil Garage Manapyene",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Manapyene, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.097666,
+    "lng": 29.013171,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go036",
+    "name": "Global Oil Garage Big boy",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Big boy, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.084902,
+    "lng": 28.941795,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go037",
+    "name": "Global Oil Garage Mokolapa",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Mokolapa, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.036436,
+    "lng": 29.000915,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go038",
+    "name": "Global Oil Garage Strdkraal",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Strdkraal, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.002391,
+    "lng": 28.993462,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go039",
+    "name": "Global Oil Garage Bapedi",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Bapedi, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.056079,
+    "lng": 28.926254,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go040",
+    "name": "Global Oil Garage Ngwana malope",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Ngwana malope, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.916142,
+    "lng": 29.038986,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go041",
+    "name": "Global Oil Garage Mphanama",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Mphanama, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.991947,
+    "lng": 29.054447,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go042",
+    "name": "Global Oil Garage Sunrise",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Sunrise, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.981082,
+    "lng": 29.089401,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go043",
+    "name": "Global Oil Garage Monoge",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Monoge, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.042961,
+    "lng": 28.902183,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go044",
+    "name": "Global Oil Garage Hlabirwa",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Hlabirwa, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.087281,
+    "lng": 29.025293,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go045",
+    "name": "Global Oil Garage Vleeshboom",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Vleeshboom, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.059441,
+    "lng": 29.065496,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go046",
+    "name": "Global Oil Garage Sizanani",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Sizanani, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.963149,
+    "lng": 29.042613,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go047",
+    "name": "Global Oil Garage Sofarigi",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Sofarigi, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.092768,
+    "lng": 29.07087,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go048",
+    "name": "Global Oil Garage Mosflow",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Mosflow, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.960186,
+    "lng": 29.094924,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go049",
+    "name": "Global Oil Garage Mphaka",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Mphaka, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.015618,
+    "lng": 29.092263,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go050",
+    "name": "Global Oil Garage Etlang",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Etlang, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.907127,
+    "lng": 28.984223,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go051",
+    "name": "Global Oil Garage Bolopa",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Bolopa, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.008234,
+    "lng": 28.948461,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go052",
+    "name": "Global Oil Garage Bata",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Bata, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.925551,
+    "lng": 28.957267,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go053",
+    "name": "Global Oil Garage Phokwane",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Phokwane, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.054586,
+    "lng": 28.972393,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go054",
+    "name": "Global Oil Garage Martin",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Martin, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.093986,
+    "lng": 28.927709,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go055",
+    "name": "Global Oil Garage Members",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Members, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.955312,
+    "lng": 28.961041,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go056",
+    "name": "Global Oil Garage Marulaneng",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Marulaneng, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.984848,
+    "lng": 28.972543,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go057",
+    "name": "Global Oil Garage Mapula",
+    "province": "Limpopo",
+    "area": "Sekhukhune",
+    "address": "Mapula, Sekhukhune, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.955632,
+    "lng": 29.082651,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go058",
+    "name": "Global Oil Garage Dzumeri",
+    "province": "Limpopo",
+    "area": "Giyani",
+    "address": "Dzumeri, Giyani, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.010411,
+    "lng": 28.982651,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go059",
+    "name": "Global Oil Garage Hlanganani",
+    "province": "Limpopo",
+    "area": "Giyani",
+    "address": "Hlanganani, Giyani, Limpopo, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.930538,
+    "lng": 29.078823,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go060",
+    "name": "Global Oil Garage Verena",
+    "province": "Mpumalanga",
+    "area": "Mpumalanga",
+    "address": "Verena, Mpumalanga, Mpumalanga, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.945821,
+    "lng": 28.963287,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go061",
+    "name": "Global Oil Garage Senotlelo",
+    "province": "Mpumalanga",
+    "area": "Mpumalanga",
+    "address": "Senotlelo, Mpumalanga, Mpumalanga, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.921762,
+    "lng": 28.91471,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go062",
+    "name": "Global Oil Garage Nhlapho",
+    "province": "Mpumalanga",
+    "area": "Mpumalanga",
+    "address": "Nhlapho, Mpumalanga, Mpumalanga, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.084756,
+    "lng": 28.943723,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go063",
+    "name": "Global Oil Garage Shampeni",
+    "province": "Mpumalanga",
+    "area": "Mpumalanga",
+    "address": "Shampeni, Mpumalanga, Mpumalanga, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.976457,
+    "lng": 29.073972,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go064",
+    "name": "Global Oil Garage A1 classic",
+    "province": "Mpumalanga",
+    "area": "Mpumalanga",
+    "address": "A1 classic, Mpumalanga, Mpumalanga, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.984553,
+    "lng": 28.960432,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go065",
+    "name": "Global Oil Garage Vhahlavi",
+    "province": "Mpumalanga",
+    "area": "Mpumalanga",
+    "address": "Vhahlavi, Mpumalanga, Mpumalanga, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.075804,
+    "lng": 29.097314,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go066",
+    "name": "Global Oil Garage Mashigo",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Mashigo, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.029549,
+    "lng": 28.916177,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go067",
+    "name": "Global Oil Garage Masobe",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Masobe, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.943506,
+    "lng": 28.900043,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go068",
+    "name": "Global Oil Garage Masuganeng",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Masuganeng, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.003511,
+    "lng": 29.022385,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go069",
+    "name": "Global Oil Garage Tirisanong",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Tirisanong, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.093871,
+    "lng": 28.936401,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go070",
+    "name": "Global Oil Garage Makhurakhura",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Makhurakhura, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.065586,
+    "lng": 28.924379,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go071",
+    "name": "Global Oil Garage Pooe",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Pooe, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.0207,
+    "lng": 29.07856,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go072",
+    "name": "Global Oil Garage Elma",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Elma, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.098801,
+    "lng": 28.914678,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go073",
+    "name": "Global Oil Garage Uncle Charlie",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Uncle Charlie, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.924107,
+    "lng": 28.907921,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go074",
+    "name": "Global Oil Garage Egen Meadowlands",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Egen Meadowlands, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.086474,
+    "lng": 28.935732,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go075",
+    "name": "Global Oil Garage Watesredge",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Watesredge, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.075323,
+    "lng": 29.043429,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go076",
+    "name": "Global Oil Garage Tk motors",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Tk motors, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -24.021245,
+    "lng": 28.915122,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go077",
+    "name": "Global Oil Garage Molantea",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Molantea, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.981819,
+    "lng": 29.046929,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go078",
+    "name": "Global Oil Garage Sharpville",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Sharpville, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.907727,
+    "lng": 28.997238,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  },
+  {
+    "id": "go079",
+    "name": "Global Oil Garage Highway",
+    "province": "Gauteng",
+    "area": "Gauteng",
+    "address": "Highway, Gauteng, Gauteng, South Africa",
+    "phone": "015 2988168",
+    "lat": -23.990307,
+    "lng": 28.912263,
+    "opening_hours": "06:00 - 22:00",
+    "services": "ATM,Cafe,Restrooms,Convenience Store",
+    "fuel_prices": [
+      {
+        "fuel_type": "Unleaded 93",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Unleaded 95",
+        "price": 21.6
+      },
+      {
+        "fuel_type": "Diesel",
+        "price": 22.8
+      }
+    ]
+  }
+]
