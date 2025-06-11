@@ -1,0 +1,23 @@
+{
+  "id": "go015",
+  "name": "Global Oil Garage Crossroads",
+  "province": "Limpopo",
+  "area": "Venda",
+  "address": "Crossroads, Venda, Limpopo, South Africa",
+  "phone": "015 2988168",
+  "lat": -23.949939,
+  "lng": 28.926392,
+  "opening_hours": "06:00 - 22:00",
+  "services": "ATM,Cafe,Restrooms,Convenience Store",
+  "fuel_prices": [
+    {
+      "fuel_type": "Unleaded 93",
+      "price": 21.6
+    },
+    {
+      "fuel_type": "Unleaded 95",
+      "price": 21.6
+    }
+  ],
+  "performance": "poor"
+}

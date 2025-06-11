@@ -1,4 +1,13 @@
 import json
+import pyttsx3
+
+# Initialize the text-to-speech engine
+engine = pyttsx3.init()
+engine.setProperty('rate', 150)
+
+def speak(text):
+    engine.say(text)
+    engine.runAndWait()
 
 # Load the stations
 with open("global_oil_stations.json", "r") as f:
@@ -9,17 +18,20 @@ provinces = sorted(set(station["province"] for station in stations))
 
 # Step 2: Choose province
 print("Welcome to the Global Oil Station Finder 🚗⛽")
-print("Choose your province:")
+speak("Welcome to the Global Oil Station Finder. Choose your province.")
 
+print("Choose your province:")
 for i, province in enumerate(provinces, start=1):
     print(f"{i}. {province}")
 
 province_choice = int(input("Enter the number of your province: ")) - 1
 selected_province = provinces[province_choice]
+speak(f"You selected {selected_province}")
 
 # Step 3: Choose station
 area_stations = [s for s in stations if s["province"] == selected_province]
 print(f"\nStations in {selected_province}:")
+speak(f"Stations in {selected_province}")
 
 for i, station in enumerate(area_stations, start=1):
     print(f"{i}. {station['name']} - {station['area']}")
@@ -34,3 +46,11 @@ print(f"Address: {selected_station['address']}")
 print(f"Phone: {selected_station['phone']}")
 print(f"GPS: ({selected_station['lat']}, {selected_station['lng']})")
 print("🛣️ Ready to Go!")
+
+# Speak the station details
+speak(f"You selected {selected_station['name']} located in {selected_station['area']}")
+speak(f"The address is {selected_station['address']}")
+speak(f"The phone number is {selected_station['phone']}")
+speak("GPS coordinates are")
+speak(f"{selected_station['lat']} latitude and {selected_station['lng']} longitude")
+speak("Ready to go!")
